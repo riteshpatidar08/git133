@@ -28,3 +28,8 @@ const email = 'ritesh@gmail.com'
 //NOTE how to create remote repo on github 
 //NOTE Git remote add repo_name(origin) url
 //NOTE git push origin master 
+//NOTE what git clone do 
+//NOTE how git pull works 
+//NOTE what is merge conflicts
+//NOTE what happens when the remote repo is 1 commit ahead of local , how to resolve this issue ? 
+
