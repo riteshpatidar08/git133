@@ -6,3 +6,4 @@
 // hello this change made using repomte repo
 
 function addTOCart =() => {} ;
+function payment = () => {};
