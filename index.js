@@ -22,3 +22,9 @@ const email = 'ritesh@gmail.com'
 //NOTE remote repo / github
 //NOTE git checkout commitHash  (use to check speficic commit code) 
 //NOTE git checkout master => use to switch back to current code )
+//NOTE what --set-upstream do 
+//NOTE git push use case 
+//NOTE remote repo ?
+//NOTE how to create remote repo on github 
+//NOTE Git remote add repo_name(origin) url
+//NOTE git push origin master 
